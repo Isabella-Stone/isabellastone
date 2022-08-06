@@ -1,0 +1,82 @@
+{
+  ".svelte-kit/build/index.js": {
+    "file": "index.js",
+    "src": ".svelte-kit/build/index.js",
+    "isEntry": true,
+    "imports": [
+      "_index-78531ddc.js"
+    ],
+    "dynamicImports": [
+      "src/hooks.js"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "entries/pages/__layout.svelte.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-78531ddc.js"
+    ],
+    "css": [
+      "_app/immutable/assets/__layout-cfc64e72.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/fira-mono-cyrillic-ext-400-normal-3df7909e.woff2",
+      "_app/immutable/assets/fira-mono-all-400-normal-1e3b098c.woff",
+      "_app/immutable/assets/fira-mono-cyrillic-400-normal-c7d433fd.woff2",
+      "_app/immutable/assets/fira-mono-greek-ext-400-normal-9e2fe623.woff2",
+      "_app/immutable/assets/fira-mono-greek-400-normal-a8be01ce.woff2",
+      "_app/immutable/assets/fira-mono-latin-ext-400-normal-6bfabd30.woff2",
+      "_app/immutable/assets/fira-mono-latin-400-normal-e43b3538.woff2"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-78531ddc.js"
+    ]
+  },
+  "src/routes/about.svelte": {
+    "file": "entries/pages/about.svelte.js",
+    "src": "src/routes/about.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-78531ddc.js"
+    ],
+    "css": [
+      "_app/immutable/assets/about-cddb64de.css"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "entries/pages/index.svelte.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-78531ddc.js"
+    ],
+    "css": [
+      "_app/immutable/assets/index-e407d70c.css"
+    ]
+  },
+  "src/routes/resume.svelte": {
+    "file": "entries/pages/resume.svelte.js",
+    "src": "src/routes/resume.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-78531ddc.js"
+    ],
+    "css": [
+      "_app/immutable/assets/resume-8322c885.css"
+    ]
+  },
+  "_index-78531ddc.js": {
+    "file": "_app/immutable/chunks/index-78531ddc.js"
+  },
+  "src/hooks.js": {
+    "file": "_app/immutable/chunks/hooks-1c986cc1.js",
+    "src": "src/hooks.js",
+    "isDynamicEntry": true
+  }
+}
