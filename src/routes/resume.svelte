@@ -7,4 +7,4 @@
     }
 </style>
 
-<img src="/src/images/resume.jpg" alt="Resume">
+<img src="/resume.jpg" alt="Resume">

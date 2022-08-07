@@ -28,10 +28,10 @@ __export(stdin_exports, {
 module.exports = __toCommonJS(stdin_exports);
 const manifest = {
   appDir: "_app",
-  assets: /* @__PURE__ */ new Set(["favicon.png", "robots.txt", "svelte-welcome.png", "svelte-welcome.webp"]),
-  mimeTypes: { ".png": "image/png", ".txt": "text/plain", ".webp": "image/webp" },
+  assets: /* @__PURE__ */ new Set(["favicon.png", "github.png", "images/email.png", "images/linkedin.png", "images/resume.jpg", "robots.txt"]),
+  mimeTypes: { ".png": "image/png", ".jpg": "image/jpeg", ".txt": "text/plain" },
   _: {
-    entry: { "file": "_app/immutable/start-c1aec05b.js", "imports": ["_app/immutable/start-c1aec05b.js", "_app/immutable/chunks/index-279846ca.js"], "stylesheets": [] },
+    entry: { "file": "_app/immutable/start-b5fd8f8e.js", "imports": ["_app/immutable/start-b5fd8f8e.js", "_app/immutable/chunks/index-279846ca.js"], "stylesheets": [] },
     nodes: [
       () => Promise.resolve().then(() => __toESM(require("./nodes/0.js"))),
       () => Promise.resolve().then(() => __toESM(require("./nodes/1.js"))),

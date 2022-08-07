@@ -1,3 +1,8 @@
+<script>
+    // const git = new URL('./github.png', import.meta.url).href
+    // import git from "$lib/assets/github.png"
+</script>
+
 <style>
     ul {
         display: flex;
@@ -25,9 +30,14 @@
     }
 </style>
 
+<html lang="en">
+	<head>
+		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+	</head>
+</html>
+
 <ul>
-    <!-- <li><a href="https://github.com/Isabella-Stone"><img src="/src/images/github.png" alt=GitHub></a></li>  -->
-    <li><a href="https://github.com/Isabella-Stone"><img src="github.png" alt=GitHub></a></li> 
-    <li><a href="https://www.linkedin.com/in/isabellastone123/"><img src="/src/images/linkedin.png" alt=LinkedIn></a></li>
-    <li><a href="mailto:istone@stevens.edu"><img src="/src/images/email.png" alt=Email></a></li>
+    <li><a href="https://github.com/Isabella-Stone"><img src='/github.png' alt=Github></a></li> 
+    <li><a href="https://www.linkedin.com/in/isabellastone123/"><img src="/linkedin.png" alt=LinkedIn></a></li>
+    <li><a href="mailto:istone@stevens.edu"><img src="/email.png" alt=Email></a></li>
 </ul>

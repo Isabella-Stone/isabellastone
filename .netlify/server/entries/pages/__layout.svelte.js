@@ -28,9 +28,8 @@ const css$1 = {
 };
 const Socials = (0, import_index_78531ddc.c)(($$result, $$props, $$bindings, slots) => {
   $$result.css.add(css$1);
-  return `<ul class="${"svelte-1evk3fl"}"><li><a href="${"https://github.com/Isabella-Stone"}" class="${"svelte-1evk3fl"}"><img src="${"/src/images/github.png"}" alt="${"GitHub"}" class="${"svelte-1evk3fl"}"></a></li> 
-    <li><a href="${"https://www.linkedin.com/in/isabellastone123/"}" class="${"svelte-1evk3fl"}"><img src="${"/src/images/linkedin.png"}" alt="${"LinkedIn"}" class="${"svelte-1evk3fl"}"></a></li>
-    <li><a href="${"mailto:istone@stevens.edu"}" class="${"svelte-1evk3fl"}"><img src="${"/src/images/email.png"}" alt="${"Email"}" class="${"svelte-1evk3fl"}"></a></li></ul>`;
+  return `<ul class="${"svelte-1evk3fl"}"><li><a href="${"https://github.com/Isabella-Stone"}" class="${"svelte-1evk3fl"}"><img src="${"/github.jpg"}" alt="${"Github"}" class="${"svelte-1evk3fl"}"></a></li> 
+    </ul>`;
 });
 const getStores = () => {
   const stores = (0, import_index_78531ddc.g)("__svelte__");
@@ -60,7 +59,7 @@ const page = {
 const app = "";
 const __layout_svelte_svelte_type_style_lang = "";
 const css = {
-  code: 'ul.svelte-1dptgs0.svelte-1dptgs0{display:flex;flex-direction:row;justify-content:center;align-items:center;list-style:none\n    }nav.svelte-1dptgs0 a.svelte-1dptgs0{float:none;color:#000000;text-align:center;padding:14px 16px;text-decoration:none;font-size:17px;border-bottom:2px solid currentColor}nav.svelte-1dptgs0 a.svelte-1dptgs0:hover{background-color:rgb(237, 232, 232);color:black}.active.svelte-1dptgs0.svelte-1dptgs0{color:black;background-color:rgb(206, 203, 203)}.container.svelte-1dptgs0.svelte-1dptgs0{display:grid;font-family:"Montserrat", sans-serif;place-items:center;text-align:center}.title.svelte-1dptgs0.svelte-1dptgs0{font-weight:800;font-size:1.5vw;text-transform:uppercase}html.svelte-1dptgs0.svelte-1dptgs0{height:100%;box-sizing:border-box}body.svelte-1dptgs0.svelte-1dptgs0{position:relative;margin:0;min-height:100%;padding-bottom:6.74rem;box-sizing:inherit}main.svelte-1dptgs0.svelte-1dptgs0{width:80%;margin:0 auto;padding-top:32px}footer.svelte-1dptgs0.svelte-1dptgs0{padding:35px;position:absolute;right:0;left:0;bottom:0}',
+  code: 'ul.svelte-34vb8q.svelte-34vb8q{display:flex;flex-direction:row;justify-content:center;align-items:center;list-style:none\n    }nav.svelte-34vb8q a.svelte-34vb8q{float:none;color:#000000;text-align:center;padding:14px 16px;text-decoration:none;font-size:17px;border-bottom:2px solid currentColor}nav.svelte-34vb8q a.svelte-34vb8q:hover{background-color:rgb(237, 232, 232);color:black}.active.svelte-34vb8q.svelte-34vb8q{color:black;background-color:rgb(196, 193, 193)}.container.svelte-34vb8q.svelte-34vb8q{display:grid;font-family:"Montserrat", sans-serif;place-items:center;text-align:center}.title.svelte-34vb8q.svelte-34vb8q{font-weight:800;font-size:1.5vw;text-transform:uppercase}html.svelte-34vb8q.svelte-34vb8q{height:100%;box-sizing:border-box}body.svelte-34vb8q.svelte-34vb8q{position:relative;margin:0;min-height:100%;padding-bottom:6.74rem;box-sizing:inherit}main.svelte-34vb8q.svelte-34vb8q{width:80%;margin:0 auto;padding-top:32px}footer.svelte-34vb8q.svelte-34vb8q{padding:35px;position:absolute;right:0;left:0;bottom:0}',
   map: null
 };
 const _layout = (0, import_index_78531ddc.c)(($$result, $$props, $$bindings, slots) => {
@@ -73,11 +72,11 @@ const _layout = (0, import_index_78531ddc.c)(($$result, $$props, $$bindings, slo
 
 
 
-<html class="${"svelte-1dptgs0"}"><div class="${"container svelte-1dptgs0"}"><h1 class="${"title svelte-1dptgs0"}"><nav class="${"svelte-1dptgs0"}"><ul class="${"svelte-1dptgs0"}"><li><a sveltekit:prefetch href="${"/"}" class="${["svelte-1dptgs0", $page.url.pathname === "/" ? "active" : ""].join(" ").trim()}">Home</a></li>
-                    <li><a sveltekit:prefetch href="${"/about"}" class="${["svelte-1dptgs0", $page.url.pathname === "/about" ? "active" : ""].join(" ").trim()}">About Me</a></li>
-                    <li><a sveltekit:prefetch href="${"/resume"}" class="${["svelte-1dptgs0", $page.url.pathname === "/resume" ? "active" : ""].join(" ").trim()}">Resume</a></li></ul></nav></h1></div>
+<html class="${"svelte-34vb8q"}"><div class="${"container svelte-34vb8q"}"><h1 class="${"title svelte-34vb8q"}"><nav class="${"svelte-34vb8q"}"><ul class="${"svelte-34vb8q"}"><li><a sveltekit:prefetch href="${"/"}" class="${["svelte-34vb8q", $page.url.pathname === "/" ? "active" : ""].join(" ").trim()}">Home</a></li>
+                    <li><a sveltekit:prefetch href="${"/about"}" class="${["svelte-34vb8q", $page.url.pathname === "/about" ? "active" : ""].join(" ").trim()}">About Me</a></li>
+                    <li><a sveltekit:prefetch href="${"/resume"}" class="${["svelte-34vb8q", $page.url.pathname === "/resume" ? "active" : ""].join(" ").trim()}">Resume</a></li></ul></nav></h1></div>
    
-    <body class="${"svelte-1dptgs0"}"><main class="${"svelte-1dptgs0"}">${slots.default ? slots.default({}) : ``}</main></body>
+    <body class="${"svelte-34vb8q"}"><main class="${"svelte-34vb8q"}">${slots.default ? slots.default({}) : ``}</main></body>
     
-    <footer class="${"svelte-1dptgs0"}">${(0, import_index_78531ddc.v)(Socials, "Socials").$$render($$result, {}, {}, {})}</footer></html>`;
+    <footer class="${"svelte-34vb8q"}">${(0, import_index_78531ddc.v)(Socials, "Socials").$$render($$result, {}, {}, {})}</footer></html>`;
 });

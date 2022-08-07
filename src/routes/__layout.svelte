@@ -17,7 +17,6 @@
         list-style: none
     }
 
-    /* Style the links inside the navigation bar */
     nav a {
         float: none;
         color: #000000;
@@ -28,7 +27,6 @@
         border-bottom: 2px solid currentColor;
     }
 
-    /* Change the color of links on hover */
     nav a:hover {
         background-color: rgb(237, 232, 232);
         color: black;
@@ -37,7 +35,7 @@
     .active {
         color: black;
         /* font-size: 25px; */
-        background-color: rgb(206, 203, 203);
+        background-color: rgb(196, 193, 193);
     }
 
     .container {
