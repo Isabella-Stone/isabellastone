@@ -46,12 +46,12 @@
         font-weight: 800;
         font-size: 6.5vw;
         text-transform: uppercase;
-        width: 100%;
+        /* width: 100%; */
     }
 
     @media (max-width: 800px) {
         .title {
-            width: 50%;
+            /* width: 50%; */
             font-size: 9.5vw;
         }
     }
