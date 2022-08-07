@@ -61,7 +61,7 @@
         position: relative;
         margin: 0;
         min-height: 100%;
-        padding-bottom: 6.74rem;
+        padding-bottom: 4.74rem;
         box-sizing: inherit;
     }
 
