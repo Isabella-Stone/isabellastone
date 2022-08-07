@@ -17,7 +17,7 @@
 
     .facts {
         font-weight: 800;
-        font-size: 2vw;
+        font-size: 1.5vw;
         /* height: 100%; */
         text-transform: uppercase;
         /* width: 100%; */
