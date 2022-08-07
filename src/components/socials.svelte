@@ -1,8 +1,3 @@
-<script>
-    // const git = new URL('./github.png', import.meta.url).href
-    // import git from "$lib/assets/github.png"
-</script>
-
 <style>
     ul {
         display: flex;
