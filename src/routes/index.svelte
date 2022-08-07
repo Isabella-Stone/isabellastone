@@ -1,9 +1,6 @@
 <style>
     h1 {
-        /* font-size: 20.5px; */
         text-align: center;
-        /* vertical-align: middle; */
-        /* inline-size: min-content; */
         position: fixed;
         top: 25%;
         bottom: 25%;
@@ -46,12 +43,10 @@
         font-weight: 800;
         font-size: 6.5vw;
         text-transform: uppercase;
-        /* width: 100%; */
     }
 
-    @media (max-width: 800px) {
+    @media (max-width: 820px) {
         .title {
-            /* width: 50%; */
             font-size: 9.5vw;
         }
     }

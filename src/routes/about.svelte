@@ -12,20 +12,16 @@
         font-family: "Montserrat", sans-serif;
         place-items: center;  
         text-align: center;
-        /* height: 100vh */
     }
 
     .facts {
         font-weight: 800;
         font-size: 1.5vw;
-        /* height: 100%; */
         text-transform: uppercase;
-        /* width: 100%; */
     }
 
     @media (max-width: 820px) {
         .facts {
-            /* width: 50%; */
             font-size: 3vw;
         }
     }

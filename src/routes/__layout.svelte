@@ -34,7 +34,6 @@
 
     .active {
         color: black;
-        /* font-size: 25px; */
         background-color: rgb(196, 193, 193);
     }
 
@@ -43,7 +42,6 @@
         font-family: "Montserrat", sans-serif;
         place-items: center;  
         text-align: center;
-        /* height: 100vh */
     }
 
     .title {
