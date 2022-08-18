@@ -42,7 +42,7 @@
         font-family: "Montserrat", sans-serif;
         place-items: center;  
         text-align: center;
-        padding-right: 30px;
+        padding-right: 15px;
     }
 
     .title {
