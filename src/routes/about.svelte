@@ -19,7 +19,7 @@
 
     @media (max-width: 820px) {
         .facts {
-            font-size: 3vw;
+            font-size: 4vw;
         }
     }
 

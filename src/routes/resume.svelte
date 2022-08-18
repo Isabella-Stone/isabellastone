@@ -1,5 +1,34 @@
-<body>
-    <!-- svelte-ignore a11y-missing-attribute -->
+<!-- <body>
     <iframe src="/resume.pdf#view=fitH" width="100%" height="750px">
     </iframe>
-</body>
+</body> -->
+
+<style>
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100%;
+        object-fit: cover;
+    }
+
+    .container {
+        display: grid;
+        font-family: "Montserrat", sans-serif;
+        place-items: center;  
+        text-align: center;
+        padding-right: 15px;
+    }
+
+    .link {
+        font-weight: 800;
+        font-size: 2vw;
+        text-transform: uppercase;
+    }
+</style>
+ 
+<img src="/resume.jpg" alt="Resume">
+&nbsp
+<div class="container">
+    <a href="/resume.pdf" class="link" style="color:#125572">view PDF</a>
+</div>

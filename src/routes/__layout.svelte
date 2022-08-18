@@ -65,11 +65,6 @@
     }
 
     main {
-        /* display: grid;
-        place-items: center; 
-        text-align: center;
-        padding-right: 100px; */
-
         width: 80%;
         margin: 0 auto;
         padding-top: 32px;
@@ -81,6 +76,17 @@
         right: 0;
         left: 0;
         bottom: 0;        
+    }
+
+    @media (max-width: 820px) {
+        .container {
+            display: grid;
+            font-family: "Montserrat", sans-serif;
+            place-items: center;  
+            text-align: center;
+            padding-right: 15px;
+            padding-top: 15px;
+        }
     }
 </style>
 
