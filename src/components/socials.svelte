@@ -1,6 +1,6 @@
 <style>
     .container {
-        padding-right: 45px;
+        padding-right: 40px;
     }
     ul {
         display: flex;

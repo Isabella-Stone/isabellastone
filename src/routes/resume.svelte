@@ -22,8 +22,15 @@
 
     .link {
         font-weight: 800;
-        font-size: 2vw;
+        font-size: 1.5vw;
         text-transform: uppercase;
+        padding-left: 10px;
+    }
+
+    @media (max-width: 820px) {
+        .link {
+            font-size: 3vw;
+        }
     }
 </style>
  
