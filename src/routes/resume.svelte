@@ -24,7 +24,7 @@
         font-weight: 800;
         font-size: 1.5vw;
         text-transform: uppercase;
-        padding-left: 10px;
+        padding-left: 15px;
     }
 
     @media (max-width: 820px) {
