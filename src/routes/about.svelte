@@ -1,7 +1,3 @@
-<script>
-   
-</script>
-
 <style>
     li {
         padding: 20px 0 20px;
@@ -12,6 +8,7 @@
         font-family: "Montserrat", sans-serif;
         place-items: center;  
         text-align: center;
+        padding-right: 30px;
     }
 
     .facts {

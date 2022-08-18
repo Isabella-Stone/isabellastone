@@ -42,6 +42,7 @@
         font-family: "Montserrat", sans-serif;
         place-items: center;  
         text-align: center;
+        padding-right: 30px;
     }
 
     .title {
@@ -64,6 +65,11 @@
     }
 
     main {
+        /* display: grid;
+        place-items: center; 
+        text-align: center;
+        padding-right: 100px; */
+
         width: 80%;
         margin: 0 auto;
         padding-top: 32px;

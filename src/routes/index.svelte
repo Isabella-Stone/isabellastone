@@ -42,11 +42,13 @@
     .title {
         font-weight: 800;
         font-size: 6.5vw;
+        /* font-size: 100px; */
         text-transform: uppercase;
     }
 
-    @media (max-width: 820px) {
+    @media (max-width: 1000px) {
         .title {
+            /* font-size: 80px; */
             font-size: 9.5vw;
         }
     }
