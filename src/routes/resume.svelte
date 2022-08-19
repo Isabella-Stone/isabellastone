@@ -1,8 +1,3 @@
-<!-- <body>
-    <iframe src="/resume.pdf#view=fitH" width="100%" height="750px">
-    </iframe>
-</body> -->
-
 <style>
     img {
         display: block;
@@ -37,5 +32,5 @@
 <img src="/resume.jpg" alt="Resume">
 &nbsp
 <div class="container">
-    <a href="/resume.pdf" class="link" style="color:#125572">view PDF</a>
+    <a href="/Isabella_Stone_Resume_2022.pdf" class="link" style="color:#125572">view PDF</a>
 </div>
