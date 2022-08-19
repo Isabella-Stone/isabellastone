@@ -1,1 +1,1 @@
-View the deployed project at https://stoneisabella.com/
+View the deployed project at https://stoneisabella.com
