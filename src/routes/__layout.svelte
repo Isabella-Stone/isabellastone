@@ -24,7 +24,7 @@
         padding: 14px 16px;
         text-decoration: none;
         font-size: 17px;
-        border-bottom: 2px solid currentColor;
+        /* border-bottom: 2px solid currentColor; */
     }
 
     nav a:hover {
