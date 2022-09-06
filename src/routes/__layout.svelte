@@ -24,7 +24,6 @@
         padding: 14px 16px;
         text-decoration: none;
         font-size: 17px;
-        /* border-bottom: 2px solid currentColor; */
     }
 
     nav a:hover {
@@ -78,6 +77,7 @@
         bottom: 0;        
     }
 
+    /* adjust styling for smaller screens */
     @media (max-width: 820px) {
         .container {
             display: grid;

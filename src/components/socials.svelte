@@ -28,12 +28,6 @@
     }
 </style>
 
-<!-- <html lang="en">
-	<head>
-		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
-	</head>
-</html> -->
-
 <div class="container">
     <ul>
         <li><a href="https://github.com/Isabella-Stone"><img src='/github.png' alt=Github></a></li> 

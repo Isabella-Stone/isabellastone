@@ -17,6 +17,7 @@
         text-transform: uppercase;
     }
 
+    /* adjust styling for smaller screens */
     @media (max-width: 820px) {
         .facts {
             font-size: 4vw;
