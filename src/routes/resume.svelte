@@ -32,5 +32,6 @@
 <img src="/resume.jpg" alt="Resume">
 &nbsp
 <div class="container">
-    <a href="/Isabella_Stone_Resume_2022.pdf" class="link" style="color:#125572" target="_blank">view PDF</a>
+    <!-- <a href="/Isabella_Stone_Resume_2022.pdf" class="link" style="color:#125572" target="_blank">view PDF</a> -->
+    <a href="/Isabella_Stone_Resume_2022.pdf" download="Isabella_Stone_Resume_2022" class="link" style="color:#125572">download resume pdf</a>
 </div>
