@@ -22,6 +22,10 @@
         padding-left: 15px;
     }
 
+    a:hover {
+        opacity: 50%;
+    }
+
     @media (max-width: 820px) {
         .link {
             font-size: 3vw;

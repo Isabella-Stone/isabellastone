@@ -23,7 +23,8 @@
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
-        font-size: 17px;
+        /* font-size: 17px; */
+        font-size: 1.2vw;
     }
 
     nav a:hover {
@@ -87,6 +88,10 @@
             padding-right: 15px;
             padding-top: 15px;
         }
+
+        nav a {
+            font-size: 2vw;
+        }
     }
 </style>
 
@@ -99,6 +104,7 @@
                     <li> <a class:active={$page.url.pathname === "/"} sveltekit:prefetch href="/">Home</a> </li>
                     <li> <a class:active={$page.url.pathname === "/about"} sveltekit:prefetch href="/about">About Me</a> </li>
                     <li> <a class:active={$page.url.pathname === "/resume"} sveltekit:prefetch href="/resume">Resume</a> </li>
+                    <li> <a class:active={$page.url.pathname === "/projects"} sveltekit:prefetch href="/projects">My Projects</a> </li>
                 </ul>
             </nav>
         </h1>
