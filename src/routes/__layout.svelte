@@ -90,7 +90,7 @@
         }
 
         nav a {
-            font-size: 3vw;
+            font-size: 2.5vw;
         }
     }
 </style>
